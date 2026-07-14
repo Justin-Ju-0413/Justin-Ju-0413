@@ -7,6 +7,7 @@ RISC-V / CNN 加速器 · AI 应用与全栈开发
 
 | 项目 | 简介 | 技术栈 |
 |---|---|---|
+| 🏠 [**AIHome**](https://github.com/Justin-Ju-0413/aihome) | Local-first 可视化工作区：扫描 AGENTS.md/SKILL.md，渲染看板 + 关系图 | Next.js · React · TypeScript · xyflow |
 | 💰 [**MoneyNote**](https://github.com/Justin-Ju-0413/moneynote) | AI 智能记账 PWA：自然语言记账 + 账单导入 + AI 工作台 + 模糊去重 | React · TypeScript · Dexie · PWA |
 | ⚡ [**RISC-V CNN Accelerator**](https://github.com/Justin-Ju-0413/riscv_cnn_accelerator) | RISC-V CNN 加速器（毕业设计） | Verilog · RISC-V |
 | 🖥️ [**ComfyUI AMD ROCm Kit**](https://github.com/Justin-Ju-0413/comfyui-amd-rocm-kit) | AMD RX 9070 XT 可复现 ROCm 部署套件 + ComfyUI 工作流 | PowerShell · ROCm |
