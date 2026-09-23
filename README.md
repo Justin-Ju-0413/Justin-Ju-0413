@@ -28,11 +28,13 @@ Microelectronics @ South China University of Technology (SCUT) · RISC-V · FPGA
 | [aihome](https://github.com/Justin-Ju-0413/aihome) | Local visual workspace for AGENTS.md / SKILL.md: kanban board, relationship graph, sandboxed file API. | No-setup demo workspace; Playwright API + UI coverage; path-sandboxed endpoints. | [README](https://github.com/Justin-Ju-0413/aihome#getting-started) |
 | [comfyui-amd-rocm-kit](https://github.com/Justin-Ju-0413/comfyui-amd-rocm-kit) | Reproducible Windows ROCm deployment kit for AMD RX 9070 XT, with validated workflows. | Validated Flux / LTX benchmarks on 16GB; repo checks run without a GPU. | [README](https://github.com/Justin-Ju-0413/comfyui-amd-rocm-kit#最短使用路径) |
 
-## Tools / 工具
+## Historical tools / 历史工具
 
-- [skillhub](https://github.com/Justin-Ju-0413/skillhub) — 一处安装、处处可用的本地技能注册表。One registry, every platform.
-- [skill-sync](https://github.com/Justin-Ju-0413/skill-sync) — 跨 agent 的 SKILL.md 同步,幂等、保留冲突、不传播删除。Keep truth local.
-- [ccswitch-usage-widget](https://github.com/Justin-Ju-0413/ccswitch-usage-widget) — TokenTicker:把 AI 用量做成行情终端,只读本地库,不联网。Your spend, as candlesticks.
+以下仓库已归档，当前相关能力以 [AIHome](https://github.com/Justin-Ju-0413/aihome) 为入口：
+
+- [skillhub](https://github.com/Justin-Ju-0413/skillhub) — 历史技能注册表。
+- [skill-sync](https://github.com/Justin-Ju-0413/skill-sync) — 历史跨 agent 技能同步工具。
+- [ccswitch-usage-widget](https://github.com/Justin-Ju-0413/ccswitch-usage-widget) — 历史用量悬浮窗；当前用量看板位于 AIHome。
 
 ## Engineering boundaries / 工程边界
 
